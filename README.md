@@ -1,5 +1,7 @@
 #PHP Instagram API Examples
 
+Example usage for [https://github.com/galen/PHP-Instagram-API](https://github.com/galen/PHP-Instagram-API)
+
 ##Installation
 
 1. git clone git@github.com:galen/PHP-Instagram-API-Examples.git ./
