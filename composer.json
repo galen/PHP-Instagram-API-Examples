@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-instagram-api/php-instagram-api": "dev-master"
+    },
+    "config": {
+        "vendor-dir": "system/vendor"
+    }
+}
